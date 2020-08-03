@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[janbakker.tech](https://janbakker.tech/wp-content/uploads/2020/02/JanBakkerTechLogo.png)
+
 <!--
 **BakkerJan/BakkerJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
